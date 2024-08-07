@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Bhupesh Kumar (@innovator404)
-- 👀 I’m interested in reading and learning to understand about the business and for which I like to do analysis on business
-- 🌱 I’m currently exploring cyber security and cloud computing course and Data structures and Algorithms
-- 💞️ I’m looking to collaborate me to write different genre poems
+- 👀
+     •Proficient in Advanced SQL for data analysis.
+     •Utilize MS Excel for pivot tables and conditional formatting.
+     •Maintain dashboards in Google Sheets.
+     •Leverage AWS Athena for efficient processing of large datasets in AWS S3.
+     •Employ Redash for data visualization through queries.
+     •Continuously enhance skills by practising Python problems to deepen understanding and proficiency.
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/bhupeshkumargoswami/  email: imbhupesh2902@gmail.com
 
 <!---
